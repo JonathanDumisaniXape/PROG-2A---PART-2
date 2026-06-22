@@ -1,0 +1,14 @@
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\bin\Debug\MercuryAI.exe.config
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\bin\Debug\MercuryAI.exe
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\bin\Debug\MercuryAI.pdb
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.csproj.AssemblyReference.cache
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\Views\MainWindow.baml
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\Views\MainWindow.g.cs
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\App.g.cs
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI_MarkupCompile.cache
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.g.resources
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.Properties.Resources.resources
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.csproj.GenerateResource.cache
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.csproj.CoreCompileInputs.cache
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.exe
+C:\Users\mulamuleli\Downloads\MercuryAI_SUBMIT\MercuryAI\MercuryAI\obj\Debug\MercuryAI.pdb
